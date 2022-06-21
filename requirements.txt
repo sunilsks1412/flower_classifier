@@ -1,0 +1,9 @@
+Flask
+scikit-learn
+scipy
+numpy
+pandas
+sklearn
+gunicorn
+tensorflow-cpu
+Pillow
