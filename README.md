@@ -1,5 +1,5 @@
 # Sample Output
-![alt text](https://github.com/sunilsks1412/digit_recognizer/blob/main/Sample Ouput.jpeg)
+![alt text](https://github.com/sunilsks1412/digit_recognizer/blob/main/SampleOuput.jpeg)
 
 
 
