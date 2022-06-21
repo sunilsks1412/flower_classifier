@@ -1,10 +1,13 @@
-# Sample Output
-![alt text](https://github.com/sunilsks1412/digit_recognizer/blob/main/Sample Ouput.jpeg)
+
 
 
 
 # Flower_Classifier
  The model is trained to classify the flowers among the 5 categories (daisy, rose, dandelion, sunflower, tulips). The model was trained with Convolutional Neural Network which is one of the best suited algorithm for the media classification. The model will return the respective probabilities for each category. It can classify with the accuracy of  93% .
+ 
+ # Sample Output
+
+![alt text](https://github.com/sunilsks1412/flower_classifier/blob/main/SampleOutput.jpeg)
 
 # Live implementaion
   https://flower-name-classifier.herokuapp.com/
