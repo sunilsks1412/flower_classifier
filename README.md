@@ -25,7 +25,7 @@
   https://flower-name-classifier.herokuapp.com/
 
 # To run on your PC
-   Step 1 : Download the Zip file
+   Step 1 : Download the Zip file 
    
    Step 2 : Open the folder in VS code
    
