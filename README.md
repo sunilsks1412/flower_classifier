@@ -9,6 +9,18 @@
 
 ![alt text](https://github.com/sunilsks1412/flower_classifier/blob/main/SampleOutput.jpeg)
 
+#Tech Stack
+    
+     Flask
+     scikit-learn
+     scipy
+     numpy
+     pandas
+     sklearn
+     gunicorn
+     tensorflow-cpu
+     Pillow
+
 # Live implementaion
   https://flower-name-classifier.herokuapp.com/
 
