@@ -11,15 +11,15 @@
 
 # Tech Stack
     
-  Flask
-  scikit-learn
-  scipy
-  numpy
-  pandas
-  sklearn
-  gunicorn
-  tensorflow-cpu
-  Pillow
+  - Flask
+  - scikit-learn
+  - scipy
+  - numpy
+  - pandas
+  - sklearn
+  - gunicorn
+  - tensorflow-cpu
+  - Pillow
 
 # Live implementaion
   https://flower-name-classifier.herokuapp.com/
